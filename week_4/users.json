@@ -1,0 +1,5 @@
+{[
+{"first_name" : "Johann", "last_name" : "Bach", "employee_id" : "0011223", "email" : "jbach@me.com", "date_created" : new Date() }
+{"first_name" : "Chris", "last_name" : "Bohnet", "employee_id" : "0011224", "email" : "cbohnet@me.com", "date_created" : new Date() }
+{"first_name" : "Geo", "last_name" : "Stom", "employee_id" : "0011225", "email" : "gstom@me.com", "date_created" : new Date() }
+{"first_name" : "Judy", "last_name" : "Botts", "employee_id" : "0011226", "email" : "jbotts@me.com", "date_created" : new Date() }]}
